@@ -1,8 +1,9 @@
 # Instagram Bot Tools
+Created By https://github.com/ccocot
 
 # install
 
-* git clone https://github.com/ccocot/Instagram-Tools.git
+* git clone https://github.com/lifgardika/Instatools.git
 * cd Unfollow-not-Followback
 * npm install
 
